@@ -1,4 +1,4 @@
-#Simple AppStore
+# Simple AppStore
 
 Discover a world of mobile apps at your fingertips with the Simple App Viewer, a minimalist React.js application.
 
